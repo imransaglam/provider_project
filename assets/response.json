@@ -1,0 +1,36 @@
+{
+    "itemList":[
+         {
+        "itemName":"TV",
+        "itemImage":"",
+        "itemPrice":"1"
+
+    },
+    {
+        "itemName":"Phone",
+        "itemImage":"",
+        "itemPrice":"2"
+
+    },
+    {
+        "itemName":"Washing Machine",
+        "itemImage":"",
+        "itemPrice":"3"
+
+    },
+    {
+        "itemName":"Fridge",
+        "itemImage":"",
+        "itemPrice":"4"
+
+    },
+    {
+        "itemName":"Tablet",
+        "itemImage":"",
+        "itemPrice":"5"
+
+    }
+    ]
+   
+   
+}
